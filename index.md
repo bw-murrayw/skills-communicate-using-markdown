@@ -4,3 +4,5 @@
 #### Level 4 header
 ##### And level 5
 ###### Finally level 6
+
+![Image of Waluigi](https://upload.wikimedia.org/wikipedia/en/4/46/Waluigi.png)
