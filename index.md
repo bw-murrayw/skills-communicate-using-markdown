@@ -6,3 +6,8 @@
 ###### Finally level 6
 
 ![Image of Waluigi](https://upload.wikimedia.org/wikipedia/en/4/46/Waluigi.png)
+
+``` cfml
+<cfset message = "Hello world">
+<cfdump var="#message#">
+```
