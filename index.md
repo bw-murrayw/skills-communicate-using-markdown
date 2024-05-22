@@ -11,3 +11,8 @@
 <cfset message = "Hello world">
 <cfdump var="#message#">
 ```
+
+- [x] Commit example of headers
+- [x] Commit example of an image
+- [x] Commit example of code
+- [ ] Commit example of task lists
